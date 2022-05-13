@@ -1,0 +1,9 @@
+<%- partial('_partial/header', { title: 'Friends', hdClass: 'friends-header' }) %>
+<div class="container body-wrap fade">
+    <% { config.friends.forEach(function(friend){ %>
+    <p>
+        <%=friend.name %> -
+        <a href="<%=friend.url %>" target="_blank"><%=friend.url %></a>
+    </p>
+    <% }) } %> <%- partial('_partial/paginator') %>
+</div>
