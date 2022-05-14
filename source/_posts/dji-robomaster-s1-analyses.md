@@ -26,11 +26,11 @@ tags:
 
 Some .DAT files in the directorys.
 
-{% asset_img ftp-dirs.png FTP %}
+![FTP Dirs](ftp-dirs.png)
 
 ### TCP/8916
 
-{% asset_img 8916.png States %}
+![TCP 8916](8916.png)
 
 ## UDP Ports
 

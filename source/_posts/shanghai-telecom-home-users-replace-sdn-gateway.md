@@ -16,7 +16,7 @@ ZTE F401 is the equipment of Shanghai Telecom enterprise users, we can also use 
 
 Connect to HG2821T-U and request `http://192.168.1.1/appapi/getstat/000000`, you can get loid from response json data.
 
-{% asset_img get-loid.png Get LOID %}
+![Get LOID](get-loid.png)
 
 # Configure ZTE F401
 
@@ -30,8 +30,8 @@ Login web anagement interface `http://192.168.1.1`, username and password both `
 
 Then configure SN, LOID and password as HG2821T-U's LOID.
 
-{% asset_img set-onu.png Set ONU %}
+![Set ONU](set-onu.png)
 
-{% asset_img set-ctc.png Set CTC %}
+![Set CTC](set-ctc.png)
 
 If some random codes in the input box, don't delete and keep them at the end.

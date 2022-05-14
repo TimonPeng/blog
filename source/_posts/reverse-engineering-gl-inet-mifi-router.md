@@ -114,7 +114,7 @@ According the [doc](https://docs.gl-inet.com/en/3/dev/serial/) set speed `115200
 6. The 3G/4G led will faintly flash twice
 7. Then you are in U-Boot mode
 
-{% asset_img uboot.gif U-Boot %}
+![U-Boot](uboot.gif)
 
 Now you can read the data in memory.
 
@@ -122,7 +122,7 @@ Now you can read the data in memory.
 
 Or we can try to use shell in normal mode.
 
-{% asset_img busybox.png BusyBox %}
+![BusyBox](busybox.png)
 
 # Decrypt firmware
 

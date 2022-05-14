@@ -12,4 +12,4 @@ Turn on the power, convert the handset light to morse code, decode it is `M0S8C7
 
 Connect serial port through usb and send code(end with `#`) to unlock.
 
-{% asset_img crack.jpg Crack %}
+![Crack](crack.jpg)
