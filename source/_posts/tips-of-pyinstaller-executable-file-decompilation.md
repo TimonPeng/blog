@@ -8,14 +8,14 @@ tags:
 
 The articles on the Internet are all relatively old.
 
-Tips should be noted:
+Tips should be noted here:
 
 1. Python2.x and Python3.x have different length magic number.
-2. fix main program file use `struct file` contents, not fixed magic number.
+2. Use `struct file` contents to modify main program file, not fixed magic number.
 
-# Extract pyc file
+# Extract .pyc file
 
-```
+```bash
 # download
 git clone https://github.com/pyinstaller/pyinstaller.git
 cd pyinstaller/
@@ -27,13 +27,11 @@ source ./venv/bin/activate
 
 # install
 python setup.py develop
-```
-
-```
+# run
 python PyInstaller/utils/cliutils/archive_viewer.py /path/your-executable-file
 ```
 
-There are 4 commands available:
+4 commands available:
 
 ```
 U: go Up one level
@@ -89,9 +87,9 @@ You can find that the first byte of the main program is `e3`, therefore, the con
 
 **It is 12 bytes(160d 0d0a 7079 6930 0101 0000) in the example, not 8 bytes on many old articles. So don't use fixed length!!! View your struct file header!!!**
 
-# Uncompyle pyc file
+# Uncompyle .pyc file
 
-```
+```bash
 pip install uncompyle6
 uncompyle6 main.pyc > main.py
 ```
