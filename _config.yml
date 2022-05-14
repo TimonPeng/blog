@@ -123,3 +123,7 @@ friends:
     url: https://codeandlife.com
   - name: qwqmeow
     url: https://blog.meow.page
+
+watermark:
+  enable: true
+  textEnable: true

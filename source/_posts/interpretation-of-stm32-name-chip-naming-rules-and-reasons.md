@@ -1,6 +1,6 @@
 ---
 title: Interpretation of STM32 name (chip naming rules and reasons)
-date: 2022-05-14 15:00:00
+date: 2022-05-12 15:00:00
 tags:
   - Hardware
 ---

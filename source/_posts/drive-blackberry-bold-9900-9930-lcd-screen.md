@@ -1,6 +1,6 @@
 ---
 title: Drive BlackBerry Bold 9900/9930 LCD screen
-date: 2022-05-14 15:00:00
+date: 2022-05-13 15:00:00
 tags:
   - Hardware
   - Reverse Engineering
