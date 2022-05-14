@@ -11,6 +11,7 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
+  "sortJSON.excludedPaths": ["package.json"],
   "better-comments.multilineComments": true,
   "better-comments.tags": [
     {

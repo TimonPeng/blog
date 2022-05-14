@@ -140,12 +140,25 @@
         .hoverLine(@primaryColor);
     }
 
-    .icon {
-        vertical-align: -9%;
+    .tips {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        color: @secondaryTextColor;
+
+        .icon {
+            height: 15px;
+        }
     }
 
+    &:hover,
+    &:active {
+        text-decoration: none;
+    }
+}
+.next .post-nav-link {
     .tips {
-        color: @secondaryTextColor;
+        justify-content: flex-end;
     }
 }
 

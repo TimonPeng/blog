@@ -1,7 +1,7 @@
 <aside id="menu" <% if((is_post() || page.layout === 'page') && theme.hideMenu){ %>class="hide"<% } %> >
   <div class="inner flex-row-vertical">
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
-        <i class="icon icon-lg icon-close"></i>
+        <%- load_svg('xmark') %>
     </a>
     <div class="brand-wrap" style="background-image:url(<%- url_for(theme.brand) %>)">
       <div class="brand">
@@ -33,7 +33,7 @@
           %>
             <li class="waves-block waves-effect<% if(isActive(menuItem)){ %> active<% } %>">
               <a href="<%- url_for(menuItem.url) %>" <% if(menuItem.target){ %>target="_blank"<% } %> >
-                <i class="icon icon-lg icon-<%= i %>"></i>
+                <%- load_svg(i) %>
                 <%=(menuItem.text || startCase(i)) %>
               </a>
             </li>

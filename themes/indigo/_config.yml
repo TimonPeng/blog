@@ -8,10 +8,10 @@
 #    url: /about       链接，绝对或相对路径，必须。
 #    target: _blank    是否跳出，省略则在当前页面打开
 menu:
-  home:
+  house-heart:
     text: Home
     url: /
-  archives:
+  list-timeline:
     text: Timeline
     url: /timeline/
   tags:
@@ -20,7 +20,7 @@ menu:
   # th-list:
   #   text: Categories
   #   url: /categories
-  friends:
+  face-party:
     text: Friends
     url: /friends/
   github:
@@ -58,7 +58,7 @@ archive_yearly: true
 show_last_updated: true
 
 # 是否开启分享
-share: true
+share: false
 
 # 是否开启打赏，关闭 reward: false
 reward: false

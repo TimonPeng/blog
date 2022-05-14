@@ -3,7 +3,7 @@
         <%- partial('plugins/site-visit') %>
         <p>
             <% if ((config.feed) && (config.feed.path.length)) { %>
-                <span><a href="<%- url_for(config.feed.path) %>" target="_blank" class="rss" title="rss"><i class="icon icon-lg icon-rss"></i></a></span>
+                <span><a href="<%- url_for(config.feed.path) %>" target="_blank" class="rss" title="rss"><%- load_svg('rss') %> RSS</a></span>
             <% } %>
             <span><%- __('footer.license') %></span>
         </p>
