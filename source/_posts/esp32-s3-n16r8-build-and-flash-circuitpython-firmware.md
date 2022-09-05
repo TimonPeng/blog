@@ -7,6 +7,8 @@ tags:
 
 CircuitPython is maintained by Adafruit mainly, but only support the boards they listed, and Adafruit doesn't selling any ESP32-S3-N16R8 boards as of this writing.
 
+<!--more-->
+
 If you don't set up the correct ESP-IDF configuration, you will see the board won't boot successful and keep throw exceptions like this:
 
 ```

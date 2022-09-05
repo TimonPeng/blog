@@ -7,6 +7,8 @@ tags:
   - MicroPython
 ---
 
+Build MicroPython firmware.
+
 <!--more-->
 
 ```Dockerfile

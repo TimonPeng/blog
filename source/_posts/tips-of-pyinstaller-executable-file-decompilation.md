@@ -6,7 +6,9 @@ tags:
   - Python
 ---
 
-The articles on the Internet are all relatively old.
+All articles on the Internet are all relatively old.
+
+<!--more-->
 
 Tips should be noted here:
 
