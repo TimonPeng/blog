@@ -41,3 +41,6 @@ You can also use sensor (QRE1113) + analogue switch (TS3V330) + matrix scanning 
 - https://www.newelementary.com/2021/01/lego-ideas-review-21323-grand-piano.html
 - https://www.xtronical.com/introduction-to-dac-audio/
 - https://www.amobbs.com/forum.php?mod=viewthread&tid=3670170
+- https://www.youtube.com/watch?v=Accf54fJn6U
+- https://musescore.org/en/handbook/3/soundfonts-and-sfz-files
+- https://www.kvraudio.com/forum/viewtopic.php?t=567807
