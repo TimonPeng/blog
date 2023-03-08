@@ -42,7 +42,7 @@ The bridge is designed to upgrade previous generation protocol to Apple HomeKit,
     <td>KNX<br />Loxone</td>
     <td>KNX</td>
     <td>KNX</td>
-    <td>KNX</td>
+    <td>Z-Wave</td>
     <td>KNX<br />Loxone</td>
     <td>KNX<br />Loxone</td>
   </tr>
