@@ -1,5 +1,5 @@
 ---
-title: Comparison of BAS protocol bridges
+title: Comparison of BAS Protocol Bridges
 date: 2023-03-08 15:00:00
 tags:
   - Hardware

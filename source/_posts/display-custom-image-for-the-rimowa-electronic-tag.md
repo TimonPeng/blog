@@ -1,5 +1,5 @@
 ---
-title: Display custom image for the rimowa electronic tag
+title: Display custom image for the Rimowa Electronic Tag
 date: 2018-03-28 15:00:00
 tags:
   - Hardware
