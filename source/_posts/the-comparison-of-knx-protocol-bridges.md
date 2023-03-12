@@ -52,6 +52,7 @@ The bridge is designed to integrate previous generation protocol with Apple Home
     <th colspan="2"><a href="https://thinka.eu">Thinka</a></th>
     <th><a href="https://1home.io">1Home<a/></th>
     <th><a href="https://freedompro.eu">Freedompro</a></th>
+    <th><a href="https://atios.ch">Atios</a></th>
     <th><a href="https://www.xxter.com/pairot/en">Pairot</a></th>
     <th><a href="http://tseem.com">TSEEM</a></th>
     <th colspan="2"><a href="https://home-assistant.io">Home Assistant</a></th>
@@ -62,6 +63,7 @@ The bridge is designed to integrate previous generation protocol with Apple Home
     <td>Thinka for KNX - Pro</td>
     <td>1Home Bridge for KNX</td>
     <td>Easykon for KNX</td>
+    <td>Atios KNX Bridge</td>
     <td>Pairot KNX Bridge for Voice control</td>
     <td>TSE300</td>
     <td>Home Assistant Yellow</td>
@@ -69,14 +71,15 @@ The bridge is designed to integrate previous generation protocol with Apple Home
   </tr>
   <tr>
     <td>Price</td>
-    <td>€ 739.00</td>
-    <td>€ 789.00</td>
-    <td>€ 799.00</td>
-    <td>€ 730,78</td>
-    <td>€ 495.00</td>
-    <td>€ ?</td>
-    <td>€ 157.49</td>
-    <td>€ 171.20</td>
+    <td>EUR 739.00</td>
+    <td>EUR 789.00</td>
+    <td>EUR 799.00</td>
+    <td>EUR 730.78</td>
+    <td>CHF 249.00</td>
+    <td>EUR 495.00</td>
+    <td>?</td>
+    <td>USD 124.00</td>
+    <td>USD 135.00</td>
   </tr>
   <tr>
     <td>As router</td>
@@ -86,11 +89,19 @@ The bridge is designed to integrate previous generation protocol with Apple Home
     <td>?</td>
     <td>?</td>
     <td>?</td>
+    <td>?</td>
     <td class="no">NO</td>
     <td class="no">NO</td>
   </tr>
   <tr>
     <td>The Next Generation Protocol</td>
+    <td>
+      <div class="badge">
+        <img src="apple-homekit.svg"/>
+        <img src="google-assistant.svg"/>
+        <img src="amazon-alexa.svg"/>
+      </div>
+    </td>
     <td>
       <div class="badge">
         <img src="apple-homekit.svg"/>
@@ -148,6 +159,7 @@ The bridge is designed to integrate previous generation protocol with Apple Home
   </tr>
   <tr>
     <td>Additions</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
