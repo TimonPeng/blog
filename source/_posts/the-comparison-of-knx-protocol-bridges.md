@@ -181,3 +181,7 @@ The bridge is designed to integrate previous generation protocol with Apple Home
 - https://www.konnekting.de/projekte/microbcu-knx-transceiver-mit-uart-interface/
 - https://github.com/zhujisheng/KNX-IP-Router-DIY
 - https://oxrs.io/docs/hardware/shields/rack32-knx-shield.html
+
+# Reference
+
+- https://simonhackett.com/2020/09/14/knx-tips-and-traps-part-2-knx-ip-routing/
