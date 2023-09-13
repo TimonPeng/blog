@@ -8,5 +8,6 @@ tags:
 | Manufacturer |  Model  | Username |   Password   |
 | :----------: | :-----: | :------: | :----------: |
 |    HUAWEI    | HG8244H | support  | admintelecom |
+|    HUAWEI    | HG8240T | support  | 7AD63B1434   |
 
 ![HG8244H](HG8244H.png)
